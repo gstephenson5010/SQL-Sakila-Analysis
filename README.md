@@ -25,11 +25,9 @@ For this analysis, I decided to focus on the MySQL sample database titled Sakila
 ![q5](https://github.com/user-attachments/assets/b026f32a-7cb1-48a1-8213-7139874fa98e)
 
 6. HOW MANY TOTAL RENTALS DOES EACH STORE HAVE? 
-
 ![q6](https://github.com/user-attachments/assets/0541872a-23f7-4dad-9f84-8c180e01f81c)
 
 7. WHAT ARE THE TOTAL SALES FOR EACH STORE?
-
 ![q7](https://github.com/user-attachments/assets/75eb4ce9-4c62-45a4-8a71-45c9e07c37ad)
 
 8. WHAT CUSTOMERS HAVE THE LARGEST NUMBER OF RENTALS (TOP 10)? 
@@ -51,10 +49,8 @@ For this analysis, I decided to focus on the MySQL sample database titled Sakila
 ![q13](https://github.com/user-attachments/assets/15810144-239a-4311-914a-79b0e56d93b7)
 
 14. HOW MANY ACTION MOVIES ARE AVAILABLE? 
-
 ![q14](https://github.com/user-attachments/assets/dde1e422-32e2-4b19-a2d0-25ba7544445f)
 
 15. WHAT'S THE TOTAL NUMBER OF NULL VALUES AND NOT NULL VALUES IN THE ADDRESS2 COLUMN (IN ADDRESS TABLE)?
-
 ![q15](https://github.com/user-attachments/assets/8a8330c2-a165-4d16-afc2-3010a5501583)
 
